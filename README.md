@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I, **Uday Sai Tyada**, am a seasoned Computer Science professional with **5 years of industry experience** in Backend Software development, specializing in Java, Spring Boot, AWS, and Microservices.
+
+I have good experience working with microservice architectures in both Sync (Rest APIs) and Async (Pub sub, event-driven) ways. Along with excelling in system design, I am always eager to explore and implement new design patterns. Moreover, I have gained extensive hands-on experience with the AWS console and its diverse range of services.
+
+For further details, please refer to my LinkedIn profile (https://www.linkedin.com/in/uday-sai-tyada-31601a12b/) attached herewith
+
+You can reach me at +91 9705087339.
+
 <!--
 **UdaySaiTyada/UdaySaiTyada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
